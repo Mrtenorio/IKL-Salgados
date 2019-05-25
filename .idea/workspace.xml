@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="943d0f58-9880-41ac-807d-dba8f6b855dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/IKL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contato.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contato.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/fundosalado2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/fundosalgado3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/intro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/products-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/products-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/products-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/salgados1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/salgados2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_img/salgados3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/business-casual.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/business-casual.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/produtos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_bootstrap-overrides.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_cta.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_intro.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_products.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_store.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/business-casual.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-    </list>
+    <list default="true" id="943d0f58-9880-41ac-807d-dba8f6b855dc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,12 +165,12 @@
       <workItem from="1558564230413" duration="4427000" />
       <workItem from="1558578729475" duration="632000" />
       <workItem from="1558723862880" duration="5060000" />
-      <workItem from="1558743170693" duration="2122000" />
+      <workItem from="1558743170693" duration="2617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22653000" />
+    <option name="totallyTimeSpent" value="23148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
